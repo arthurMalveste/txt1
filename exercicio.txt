@@ -3,3 +3,11 @@ Exercício de versionamento de código
 Python é uma linguagem de programação para propósitos diversos (GPL) que roda em basicamente qualquer arquitetura de sistema e pode ser usada para um leque enorme de aplicações em diferentes áreas, desde o desenvolvimento web até o aprendizado de máquina.
 Além de ser versátil, o Python também é amigável para iniciantes. Por esses e outros fatores, trata-se de uma das linguagens de programação mais populares do mundo.
 Se você quer saber mais sobre o Python e seus usos mais comuns, este é o artigo certo. Nós vamos explicar por que você deve aprender os fundamentos da linguagem, para que ela é utilizada e dar dez exemplos de grandes empresas que a utilizam nas suas operações.
+
+Passo a passo:
+
+1 Acesse a página oficial para realizar o download do instalador do Python na versão 3.8. Vá até a pasta na qual foi feito o download do instalador do Python 3.8.
+
+2 Clique com o botão direito em cima do instalador. Clique na opção “Executar como Administrador”.
+
+3 Com o instalador aberto tenha a certeza de ter marcado as opções “Add Python 3.8 to PATH” para que o comando python fique disponível. Por fim clique em “Install Now” e siga o processo padrão de instalação de programas no Windows (next, next, next, finish).
