@@ -2,9 +2,7 @@ from flask import Flask, jsonify
 from funcoes import maior_de_50
 from random_data import *
 from funcoes import *
-from funcoes import *
-from funcoes import *
-from funcoes import *
+
 
 app = Flask(__name__)
 
